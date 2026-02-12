@@ -6,10 +6,12 @@ Currently replacing IBM Watson with a custom AI runtime (ADFlow) at **27x lower 
 
 ## What I work with
 
-**AI/ML:** LLM Integration (Groq/Llama), NLP, RAG, Structured Output, BERTimbau, ONNX
-**Backend:** Python, Node.js, Java, PHP
-**Voice:** Google Cloud TTS/ASR, Deepgram, Asterisk/EAGI, gRPC
-**Infra:** Docker, Kafka, RabbitMQ, PostgreSQL, Prometheus, Grafana
+| | |
+|---|---|
+| **AI/ML** | LLM Integration (Groq/Llama), NLP, RAG, Structured Output, BERTimbau, ONNX |
+| **Backend** | Python, Node.js, Java, PHP |
+| **Voice** | Google Cloud TTS/ASR, Deepgram, Asterisk/EAGI, gRPC |
+| **Infra** | Docker, Kafka, RabbitMQ, PostgreSQL, Prometheus, Grafana |
 
 ## Open Source
 
